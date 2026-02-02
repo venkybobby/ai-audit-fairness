@@ -59,7 +59,8 @@ ai-audit-fairness/
 - **Disparity ratio** and **PASS** or **FAIL** (4/5ths rule).
 - **NEW Disparity Ratio** after mitigation.
 - Optional note on EU AI Act high-risk when the baseline fails.
-
+  
+\"🔍 Full Compliance Report: View the detailed NIST AI RMF Audit Report here."
 ## License
 
 MIT (or your choice).
